@@ -177,7 +177,26 @@ Dataset directory structure
 ├── Training
 ├── Testing
 
+---
 
+## Citation
+
+If you use this code in your research, please cite: # Insert/Update the citation once arxiv is available
+
+```
+@article{Saini2026,
+  author  = {Saini, Saurabh and Ahuja, Kapil and Chauhan, Akshat S.},
+  title   = {Block-fused attention-driven adaptively-pooled {ResNet} model for improved cervical cancer classification},
+  journal = {Soft Computing},
+  year    = {2026},
+  volume  = {30},
+  number  = {6},
+  pages   = {4467--4495},
+  doi     = {10.1007/s00500-026-11369-w},
+  url     = {https://doi.org/10.1007/s00500-026-11369-w}
+}
+
+```
 
 
 
