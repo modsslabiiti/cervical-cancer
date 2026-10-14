@@ -178,6 +178,10 @@ Dataset directory structure
 ├── Testing
 
 ---
+### Run
+
+Set the Path and run each cell of each respective notebooks available in folders.
+
 
 ## Citation
 
@@ -197,14 +201,3 @@ If you use this code in your research, please cite: # Insert/Update the citation
 }
 
 ```
-
-
-
-
-
-
-
-### Run
-
-Set the Path and run each cell of each respective notebooks available in folders.
-
